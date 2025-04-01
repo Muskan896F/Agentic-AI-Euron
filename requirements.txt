@@ -15,8 +15,9 @@ python-dotenv
 #crewai_tools==0.1.6 
 
 
+
 langchain==0.2.10
 langchain_openai==0.1.17
 langchain_groq==0.1.6
 langchain_community==0.2.10
-langgraph==0.1.19
+#langgraph==0.1.19
