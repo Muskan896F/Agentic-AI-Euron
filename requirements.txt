@@ -23,3 +23,10 @@ langchain_community
 langchain_openai
 duckduckgo-search
 #langgraph==0.1.19
+
+# Phidata
+Phidata
+yfinance
+packaging
+groq
+openai 
